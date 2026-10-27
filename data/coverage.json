@@ -1,19 +1,19 @@
 {
   "measured": "2026-10-27",
   "topics": {
-    "dsh-plugin": 23398,
-    "dsh-plugins": 2443,
-    "dsh-theme": 56,
-    "dsh-skin": 29,
-    "dsh-skill": 299,
+    "dsh-plugin": 14587,
+    "dsh-plugins": 2452,
+    "dsh-theme": 57,
+    "dsh-skin": 30,
+    "dsh-skill": 302,
     "dsh-bundle": 325,
-    "dsh": 12862,
-    "deepseek-harness": 14189,
-    "deepseek-harness-plugin": 902,
+    "dsh": 12951,
+    "deepseek-harness": 19023,
+    "deepseek-harness-plugin": 904,
     "deepseek-harness-plugins": 287,
-    "deepseekharness": 21
+    "deepseekharness": 14
   },
-  "unique": 26053,
-  "decided": 22696,
-  "queued": 468
+  "unique": 24821,
+  "decided": 21317,
+  "queued": 471
 }
